@@ -1,26 +1,33 @@
 ---
 author: Mark Koester
-title: Customer Development
-date: Startup Boost, April 28, 2020
+title: Business Model Canvas
+date: Startup Boost, Sept 29, 2020
 ---
 
-## Customer Development <br/> Principles and Tactics<br/> for Startups
+## Business Model Canvas <br/> + Customer Development 101
 
 <p>Mark Koester | www.markwk.com <br/>
-Startup Boost, April 28, 2020<br/><br/>
-Slides and References: github.com/markwk/customer-dev-talk</p>
+Startup Boost, Sept 29, 2020<br/><br/>
 
 
 
 # Slides: 
 
-github.com/markwk/customer-dev-talk
+github.com/markwk/business-model-canvas
+
+
 
 #
 
-> The core of Customer Development is blissfully simple: Products developed by founders who get out in front of customers early and often, win. 
+> Matching a product with its target customer is like fishing. Your product is the bait that you put out there and the fish that you catch is your target customer. Sometimes you catch the type of fish you were going after and sometimes you catch a different type of fish....
 >
-> <small>Steve Blank</small>
+> <small>Dan Olsen</small>
+
+#
+
+> ...You can develop hypotheses about your target market, but you won't truly know who your customers actually are until you throw your hook into the water and see what kind of fish bite. 
+>
+> <small>Dan Olsen</small>
 
 # Agenda
 
@@ -64,6 +71,56 @@ SEE: Blank, S. G., & Dorf, B. (2012). The Startup Owner’s Manual.
 :::
 
 
+
+-------
+
+### Business Model Canvas
+
+![](images/business-model-canvas-graphic.png){ width=80%}
+
+a mental model to help you conceptualize, explain and improve key components of your business. 
+
+<br/>
+
+::: notes
+
+
+
+:::
+
+
+
+-------
+
+### Mental Model
+
+> A mental model is a representation of the world or of how something works. 
+
+<br/>
+
+::: notes
+
+We cannot keep all the details about something in our brain. Mental models are abstractions and simplifications that helps us deal with complexity by simplifying and reducing the complex stuff into understandable and organized chunks. Models help us think and understand the world. They also shape how we view events, people, situations, etc. 
+
+:::
+
+
+
+-------
+
+### Why Mental Models Matter
+
+> "The inverse of being right more is being wrong less. Mental models are a tool set that can help you be wrong less." 
+>
+> <small>Gabriel Weinberg and Lauren McCann's book on mental models, _Super Thinking_</small>
+
+<br/>
+
+<small>Fans of Mental Models include Warren Buffet and Charlie Munger among others.</small>
+
+::: notes
+
+:::
 
 -------
 
@@ -115,7 +172,13 @@ Steve Blank and others strive to make this an almost scientific process but it s
 >
 > <small>Steve Blank</small>
 
-= Overemphasis on deliverables and product, underemphesis on users and customers.
+
+
+-------
+
+### 
+
+Startups tend to place an *overemphasis* on deliverables and product and an *underemphasis* on users and customers.
 
 ::: notes
 
@@ -124,6 +187,20 @@ Overemphasis on deliverables and product
 Startups and entrepeneurs tend to focus on what we build, do and deliver and forget to spend as much time, energy and thought on customer discovery. 
 
 :::
+
+
+
+-------
+
+### Objective of Business Model Canvas
+
+Turn assumptions and guesses into facts and knowledge ASAP. 
+
+::: notes
+
+Best combined with agile product development 
+
+::: 
 
 
 
