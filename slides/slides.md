@@ -19,24 +19,20 @@ github.com/markwk/business-model-canvas
 
 #
 
-> Matching a product with its target customer is like fishing. Your product is the bait that you put out there and the fish that you catch is your target customer. Sometimes you catch the type of fish you were going after and sometimes you catch a different type of fish....
->
-> <small>Dan Olsen</small>
+> No campaign plan survives first contact with the enemy - Field Marshall Helmuth Graf von Moltke
 
-#
+>  No Plan Survives First Contact With Customers - Steve Blank
 
-> ...You can develop hypotheses about your target market, but you won't truly know who your customers actually are until you throw your hook into the water and see what kind of fish bite. 
->
-> <small>Dan Olsen</small>
+
 
 # Agenda
 
 - About Me
 - Key Concepts
+- Business Model Canvas
+- Customer Development: Principles and Tactics
 - Example / Story
-- Principles
-- Tactics
-- Resources
+- Recommended Resources
 
 # About Me
 
@@ -178,7 +174,8 @@ Steve Blank and others strive to make this an almost scientific process but it s
 
 ### 
 
-Startups tend to place an *overemphasis* on deliverables and product and an *underemphasis* on users and customers.
+- Startup founders are optimists. We tend to assume rather than validate. 
+- Startups tend to place an *overemphasis* on deliverables and product and an *underemphasis* on **users, customers and value**.
 
 ::: notes
 
@@ -190,17 +187,59 @@ Startups and entrepeneurs tend to focus on what we build, do and deliver and for
 
 
 
+# Business Model Canvas
+
+
+
+
+
+----
+
+### What is BMC? 
+
+- The business model canvas is a thinking and strategizing tool for working on your business. 
+- At a high-level, it helps you think about a business through several key components that make most businesses work. 
+
+
+
+----
+
+### Form
+
+![](images/business-model-canvas-form.png){ width=80%}
+
+
+
+
+
+----
+
+### 9 Components of BMC
+
+- Value Proposition
+- Customers
+- Customer Relationships
+- Channels
+- Key Activities
+- Key Resources
+- Key Partners
+- Cost
+- Revenue
+
+
+
 -------
 
-### Objective of Business Model Canvas
+### Benefits of BMC
 
-Turn assumptions and guesses into facts and knowledge ASAP. 
+1. Describe what a business does, i.e. externalize key aspects of your (possible) business components. 
 
-::: notes
+2. Pin-point assumptions that you might want to explore through customer discovery research and design (often referred to as UX Design) or better yet attempt to validating those components in the market. 
+3. Help you tell your story. 
 
-Best combined with agile product development 
 
-::: 
+
+# Customer Development Principles
 
 
 
@@ -226,28 +265,7 @@ Talk to customers.
 
 
 
-# Example
-
-- Finding, Understanding and Selling Sponsorship Customers for Up Global and Techstars in China (2014-2016)
-- Assumptions from US
-- What I Did
-- Discoveries / Lessons Learned
-
-::: notes
-
-- Finding, Understanding and Selling Sponsorship Customers for Up Global and Techstars in China (2014-2016)
-- Assumptions from US: We need a lot of events to get sponsorship, i.e. event volume drives sponsorship.
-- Talked to nearly all of the existing, past and potential sponsors. 
-- Discovered we weren't fulfilling various sponsorship needs for Chinese Market. 
-- Lessons Learned: Sponsorship match/alignment was more important than volume and consistent business development could unlock $$$. 
-
-:::
-
-
-
-# Principles
-
-
+----
 
 ### Markets with...
 
@@ -256,21 +274,27 @@ Talk to customers.
 
 
 
+----
+
 ### Customer Development Process
 
 ![](images/customer-development-process.png){ width=80%}
+
+----
 
 ### Customer Discovery Process
 
 ![](images/customer-discovery-process.png){ width=80%}
 
-
+----
 
 ### Customer Validation Process
 
 ![](images/customer-validation-process.png){ width=80%}
 
 
+
+----
 
 ###
 
@@ -280,6 +304,8 @@ The <u>key</u> to customer discovery...
 
 to customers
 
+----
+
 ###
 
 By understanding the <u>problem</u>, you can...
@@ -288,11 +314,7 @@ By understanding the <u>problem</u>, you can...
 
 
 
-
-
-
-
-# Tactics
+# Customer Development Tactics
 
 
 
@@ -444,20 +466,24 @@ TIP: Validation Board from Lean Startup Machine.
 
 
 
-# Summary
-
-- All startups face uncertainties. Own your assumptions. 
-- Turn assumptions and guesses into facts and knowledge ASAP. 
-- Get out of the building (or into a zoom call!) and talk to customers. 
-- Customer Development is intended as a systematic process towards dealing with uncertainty and reaching product-market fit (i.e. products that matter, sell and that VC want to invest in). 
 
 
+# Example
 
-#
+- Finding, Understanding and Selling Sponsorship Customers for Up Global and Techstars in China (2014-2016)
+- Assumptions from US
+- What I Did
+- Discoveries / Lessons Learned
 
-> No campaign plan survives first contact with the enemy - Field Marshall Helmuth Graf von Moltke
+::: notes
 
->  No Plan Survives First Contact With Customers - Steve Blank
+- Finding, Understanding and Selling Sponsorship Customers for Up Global and Techstars in China (2014-2016)
+- Assumptions from US: We need a lot of events to get sponsorship, i.e. event volume drives sponsorship.
+- Talked to nearly all of the existing, past and potential sponsors. 
+- Discovered we weren't fulfilling various sponsorship needs for Chinese Market. 
+- Lessons Learned: Sponsorship match/alignment was more important than volume and consistent business development could unlock $$$. 
+
+:::
 
 
 
@@ -467,20 +493,37 @@ TIP: Validation Board from Lean Startup Machine.
 
 ### Resources and Book Recommendations
 
-- Steve Blank & Bob Dorf - Startup Owners Manual (2012)
-- https://steveblank.com/tools-and-blogs-for-entrepreneurs/
-- Dan Shapiro - Hot Seat (2015). 
 - David Rose - The Startup Checklist. (2016).
 - Gabriel Weinberg - Traction: How Any Startup Can Achieve Explosive Customer Growth
-- Blog www.markwk.com 
-- Slides: github.com/markwk.com/customer-dev-talk
+- Dan Shapiro - Hot Seat (2015). 
+
+<small>Organized Mind by Daniel Levin & Getting Things Done by David Allen</small>
 
 
 
-### Additional References
 
-- Bygrave, W. D., Lange, J., Mollov, A., Pearlmutter, M., & Singh, S. (2007). Pre-startup formal business plans and post-startup performance: a study of 116 new ventures. Venture Capital Journal, 9(4), 1-20.
-- Chesbrough, H., & Rosenbloom, R. S. (2002). The role of the business model in capturing value from innovation: evidence from Xerox Corporation’s technology spin‐off companies. Industrial and corporate change, 11(3), 529-555.
+
+# Summary
+
+- All startups face uncertainties. 
+- Customer Development is intended as a systematic process towards dealing with uncertainty and reaching **<u>product-market fit</u>** (i.e. products that matter, get traction, grow, have sales that VC want to invest in). 
+- Use the business model canvas to own your assumptions and learnings. 
+- Use BMC to communicate, validate aspects, and build your story. 
+- Do a lot of customers interview.  
+
+
+
+#
+
+> Matching a product with its target customer is like fishing. Your product is the bait that you put out there and the fish that you catch is your target customer. Sometimes you catch the type of fish you were going after and sometimes you catch a different type of fish....
+>
+> <small>Dan Olsen</small>
+
+#
+
+> ...You can develop hypotheses about your target market, but you won't truly know who your customers actually are until you throw your hook into the water and see what kind of fish bite. 
+>
+> <small>Dan Olsen</small>
 
 
 
