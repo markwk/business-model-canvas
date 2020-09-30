@@ -162,11 +162,36 @@ Steve Blank and others strive to make this an almost scientific process but it s
 
 -------
 
-### 
+### Product-Market Fit
 
-> In practice, startups begin with a set of initial hypotheses (guesses), most of which will end up being wrong. Therefore, focusing on execution and delivering a product or service based on those initial, untested hypotheses is a going-out-of-business strategy. 
->
-> <small>Steve Blank</small>
+> “Product/market fit means being in a good market with a product that can satisfy that market.” - Marc Andreessen
+
+> "You have built a product that creates significant customer value. This means that your product meets real customer needs and does so in a way that is better than the alternatives." - Dan Olson
+
+<br />
+
+Short Version: Delivering a product or service to a customer segment that really wants it,  will buy it and even recommend it. 
+
+::: notes
+:::
+
+
+
+-------
+
+### Goal is Demonstrable and Repeatable Growth
+
+![](images/pmf-growth-foundation.png){ width=80%}
+
+Reach Product-Market Fit before you focus on growth and traction. 
+
+<br/>
+
+::: notes
+
+
+
+:::
 
 
 
@@ -174,16 +199,9 @@ Steve Blank and others strive to make this an almost scientific process but it s
 
 ### 
 
-- Startup founders are optimists. We tend to assume rather than validate. 
-- Startups tend to place an *overemphasis* on deliverables and product and an *underemphasis* on **users, customers and value**.
-
-::: notes
-
-Overemphasis on deliverables and product
-
-Startups and entrepeneurs tend to focus on what we build, do and deliver and forget to spend as much time, energy and thought on customer discovery. 
-
-:::
+> In practice, startups begin with a set of initial hypotheses (guesses), most of which will end up being wrong. Therefore, focusing on execution and delivering a product or service based on those initial, untested hypotheses is a going-out-of-business strategy. 
+>
+> <small>Steve Blank</small>
 
 
 
@@ -466,8 +484,6 @@ TIP: Validation Board from Lean Startup Machine.
 
 
 
-
-
 # Example
 
 - Finding, Understanding and Selling Sponsorship Customers for Up Global and Techstars in China (2014-2016)
@@ -506,10 +522,15 @@ TIP: Validation Board from Lean Startup Machine.
 # Summary
 
 - All startups face uncertainties. 
+
 - Customer Development is intended as a systematic process towards dealing with uncertainty and reaching **<u>product-market fit</u>** (i.e. products that matter, get traction, grow, have sales that VC want to invest in). 
-- Use the business model canvas to own your assumptions and learnings. 
-- Use BMC to communicate, validate aspects, and build your story. 
+
+  
+
+# Summary
+
 - Do a lot of customers interview.  
+- Use the business model canvas to own your assumptions and learnings. Then communicate, validate, and build your story. 
 
 
 
